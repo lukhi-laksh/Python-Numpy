@@ -1,4 +1,4 @@
-<h1>📘 Learn NumPy using Python, Jupyter Lab, and PHP</h1>
+<h1>📘 Learn NumPy using Python, Jupyter Lab</h1>
 
 <p>In this repo, we are learning <strong>NumPy</strong> and working with <strong>Jupyter Lab</strong> using a custom <code>venv</code> environment.  
 We also install <strong>Python 3.13.3</strong>, <strong>pip 25.1.1</strong>, and required packages inside the virtual environment.</p>
